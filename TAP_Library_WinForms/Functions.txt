@@ -1,0 +1,36 @@
+﻿=> Borrowing :
+	=> BorrowWork()
+	=> ReturnWork();
+
+=> Selection :
+	=> Count(=> works, => books, => CDs);
+	=> ShowSelectedWorkInfos();
+	=> Select(=> allWorks, => allBooks, => allCDs);
+
+=> Search :
+	=> FindWork(codetitle/state/borrowCount);
+	=> FindBook(code/title/state/borrowCount/authorName/editorName);
+	=> FindCD(code/title/state/borrowCount/artistName/TrackCount);
+
+=> Order :
+	=> OrderWorksBy(title/state/borrowCount, direction(asc, desc));
+	=> OrderBooksBy(title/state/borrowCount/authorName/editorName, direction(asc, desc));
+	=> OrderCDBy(title/state/borrowCount/artistName/trackCount, direction(asc, desc));
+
+=> Update :
+	=> AddBook(title, authorName, editorName);
+	=> AddCD(title, artistName, trackCount);
+	=> EditWork(workCode, newWork);
+	=> DeleteWork(workCode);
+
+=> [Technical features] :
+	=> Refresh datagrid after data update
+	=> Enable/Disable buttons depending on their use case
+
+=> Save :
+	=> SaveWorksToDataBase();
+	=> LoadWorksFromDatabase();
+	=> ExportWorksToFile(=> bin, => txt, => xml, => json, • ini));
+	.> LoadWorksFromFile(=> bin, • txt, • xml, • json, • ini));
+
+Fuck all this shit, I'm done.

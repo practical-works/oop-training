@@ -1,0 +1,13 @@
+C:\Users\Ambratolm\Desktop\OOP TAP (C#)\TAP_Library\TAP_Library_WinForms\bin\Debug\TAP_Library_WinForms.exe
+C:\Users\Ambratolm\Desktop\OOP TAP (C#)\TAP_Library\TAP_Library_WinForms\bin\Debug\TAP_Library_WinForms.pdb
+C:\Users\Ambratolm\Desktop\OOP TAP (C#)\TAP_Library\TAP_Library_WinForms\obj\x86\Debug\TAP_Library_WinForms.Form_Book.resources
+C:\Users\Ambratolm\Desktop\OOP TAP (C#)\TAP_Library\TAP_Library_WinForms\obj\x86\Debug\TAP_Library_WinForms.Form_CD.resources
+C:\Users\Ambratolm\Desktop\OOP TAP (C#)\TAP_Library\TAP_Library_WinForms\obj\x86\Debug\TAP_Library_WinForms.Form_Main.resources
+C:\Users\Ambratolm\Desktop\OOP TAP (C#)\TAP_Library\TAP_Library_WinForms\obj\x86\Debug\TAP_Library_WinForms.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\OOP TAP (C#)\TAP_Library\TAP_Library_WinForms\obj\x86\Debug\TAP_Library_WinForms.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\OOP TAP (C#)\TAP_Library\TAP_Library_WinForms\obj\x86\Debug\TAP_Library_WinForms.exe
+C:\Users\Ambratolm\Desktop\OOP TAP (C#)\TAP_Library\TAP_Library_WinForms\obj\x86\Debug\TAP_Library_WinForms.pdb
+C:\Users\Ambratolm\Desktop\OOP TAP (C#)\TAP_Library\TAP_Library_WinForms\obj\x86\Debug\TAP_Library_WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\OOP TAP (C#)\TAP_Library\TAP_Library_WinForms\obj\x86\Debug\TAP_Library_WinForms.Form_Loading.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\OOP TAP\TAP_Library\TAP_Library_WinForms\obj\x86\Debug\TAP_Library_WinForms.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\OOP TAP\TAP_Library\TAP_Library_WinForms\obj\x86\Debug\TAP_Library_WinForms.pdb
